@@ -1,3 +1,5 @@
+Contact Me: https://lizeris.com/ContactMe
+
 ## Language
 - [English](#English)
 - [中文](#中文)
@@ -30,5 +32,3 @@ send play (link) to play music
 在discord输入play xxx 可以播放bilibili影片
 
 ---
-
-Contact Me: https://lizeris.com/ContactMe
